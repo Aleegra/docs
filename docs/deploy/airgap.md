@@ -175,7 +175,7 @@ spec:
 kubectl apply -f walrus.yaml
 ```
 
-4. Access the Walrus UI, and after the initial login, navigate to `https://<WALRUS_URL>/v1/settings`. Validate whether the `ImageRegistry` and `DeployerImage` settings are effective.
+3. Access the Walrus UI, and after the initial login, navigate to `https://<WALRUS_URL>/v1/settings`. Validate whether the `ImageRegistry` and `DeployerImage` settings are effective.
 
 ## Using intranet catalog
 1. Disable the built-in catalog:
